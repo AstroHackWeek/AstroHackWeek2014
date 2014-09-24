@@ -26,7 +26,7 @@ Outline
    
 2. Regression
 
-   - Logistic regression
+   - Linear regression
    - kNN
    - random forest
    
