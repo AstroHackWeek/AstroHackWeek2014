@@ -1,0 +1,9 @@
+# Emacs stuff
+*~
+
+# Python stuff
+*.pyc
+
+# C stuff
+*.so
+*.o
