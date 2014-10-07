@@ -8,8 +8,7 @@
 
 Lecture Slides (PDF) <a href="https://drive.google.com/file/d/0B4vIeCR-xYNnUzlxZzZ4ZjdibW8/edit?usp=sharing">here</a>
 
-View the IPython notebook <a href="http://nbviewer.ipython.org/github/AstroHackWeek/day4/blob/master/machine-learning-on-SDSS.ipynb">here</a>
-
+View the IPython notebook <a href="http://nbviewer.ipython.org/github/AstroHackWeek/AstroHackWeek2014/blob/master/day4/machine-learning-on-SDSS.ipynb">here</a>
 
 Outline
 ----
